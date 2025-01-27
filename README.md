@@ -1,6 +1,5 @@
 # Server Stats Script
-https://github.com/EmirSlhSnbl/server-stats
-
+https://roadmap.sh/projects/server-stats
 Bu proje, Linux sunucularının performansını izlemek için yazılmış bir bash betiğidir. `server-stats.sh` betiği, sunucudaki temel sistem kaynaklarının kullanım durumunu analiz eder ve raporlar. Bu raporlar, CPU kullanımı, bellek kullanımı, disk kullanımı ve en fazla kaynak tüketen işlemler gibi bilgileri içerir.
 
 ## Özellikler
